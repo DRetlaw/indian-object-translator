@@ -1,0 +1,7 @@
+ultralytics
+gradio
+python-dotenv
+requests
+pillow
+pandas
+pytest
